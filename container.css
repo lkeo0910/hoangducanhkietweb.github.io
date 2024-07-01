@@ -1,0 +1,11 @@
+.container{
+ display:flex
+}
+
+.img{
+ max-width:100%
+}
+
+.image-col{
+ flex:basis 25%
+}
